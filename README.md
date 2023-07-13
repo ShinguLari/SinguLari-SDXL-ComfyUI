@@ -1,6 +1,7 @@
-# Sytan SDXL ComfyUI
-A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
-he workflow is provided as a .json file which is easily loadable into the ComfyUI environment.
+# SinguLari SDXL ComfyUI
+
+A hub dedicated to development and upkeep of the SinguLari SDXL workflow for ComfyUI
+The workflow is provided as a .json file which is easily loadable into the ComfyUI environment.
 
 ## Prerequisites
 
@@ -22,9 +23,6 @@ Once imported, the workflow will be available in your ComfyUI interface, and you
 
 If you encounter any issues while installing or using this workflow, please create an issue in this repository.
 
-## Contributions
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
 
 ## License
 
@@ -32,8 +30,8 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 
 ## Support
 
-I hope you all enjoy what I do, if you'd like to support me, donations to my BuyMeACoffee (https://bmc.link/SytanSD) would be greatly appreciated, as I am currently 19 an unemployed! Much appreciation everybody!
+I hope you all enjoy what I do, if you'd like to support me, donations to my BuyMeACoffee(https://www.buymeacoffee.com/shinguulari) would be greatly appreciated, as I am currently 19 an unemployed! Much appreciation everybody!
 
 ## Acknowledgements
 
-Thanks to the creators of ComfyUI for creating a flexible and powerful UI. Another special thanks to PseudoTerminalX, Caith, ThrottleKitty, ComfyAnonymous, HumbleMikey, CaptnSeraph, and Joe Penna for the support and help working on this project.
+Thanks to the creators of ComfyUI for creating a flexible and powerful UI. Another special thanks to PseudoTerminalX, Caith, ThrottleKitty, ComfyAnonymous, HumbleMikey, CaptnSeraph, and Joe Penna for the support and help working on this project.(This folk is originated by SytanSD(https://github.com/SytanSD/Sytan-SDXL-ComfyUI)
